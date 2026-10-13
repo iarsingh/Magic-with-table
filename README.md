@@ -1,5 +1,12 @@
 # Magic-with-table
 
+## Overview
+
+A placeholder repository with no code yet. The name suggests it was meant for experiments with tables, such as HTML and CSS tables or a magic-square style exercise, but nothing beyond the README has been added, so its exact purpose cannot be confirmed from the repository contents.
+
+- **Built with:** Nothing yet; no code has been committed
+- **Scope:** Empty placeholder with nothing to run or install.
+
 <!-- project-guide:start -->
 ## Project guide
 
